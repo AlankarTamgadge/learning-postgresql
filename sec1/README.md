@@ -1,5 +1,7 @@
 # POSTGRESQL Database Queries
 
+## Section 1. Querying Data
+
 ## SELECT Query :
 * One of the most common tasks, when you work with the database, is to query data from tables by using the SELECT statement.
 * The syntax of the SELECT statement:
